@@ -1,3 +1,3 @@
-module demetriuzz.ru/s4sm
+module github.com/demetriuzz/s4sm
 
 go 1.21.9
