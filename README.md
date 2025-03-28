@@ -1,2 +1,3 @@
 # s4sm
-Service For Server Maintenance
+
+Сервис для обслуживания сервера.
