@@ -1,2 +1,2 @@
-# s4sm
-Service For Server Maintenance
+# sms
+Server maintenance service.
